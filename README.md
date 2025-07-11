@@ -29,14 +29,3 @@ A ideia foi construir uma interface limpa, com foco em tipografia, espaçamento 
 - **CSS3** com foco em **CSS Grid** e flexbox para alinhamentos específicos.
 - Design responsivo para adaptar o layout a diferentes tamanhos de tela.
 
-## 📸 Preview
-
-![Preview do projeto](./caminho-da-sua-imagem.png)
-
-> (Troque o caminho acima pela imagem de preview ou utilize o GitHub Pages para hospedar e visualizar facilmente.)
-
-## 🚀 Como utilizar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/tech-news.git
